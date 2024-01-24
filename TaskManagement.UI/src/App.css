@@ -1,0 +1,30 @@
+.task-container {
+  border: 1px solid rgb(216, 222, 228);
+  height: 100vh;
+  width: 350px;
+  min-width: 350px;
+  background-color: rgb(246, 248, 250);
+  border-radius: 6px;
+}
+
+.badge-num {
+  color:rgb(101, 109, 118);
+}
+.scroll {
+  height: 80vh;
+}
+
+div {
+  height: 70px;
+}
+
+.icon-btn {
+  padding: 6px;
+  border: none;
+  background-color:rgb(246, 248, 250);
+
+}
+
+.icon-btn:hover {
+  background-color: rgba(208, 215, 222, 0.32);
+}

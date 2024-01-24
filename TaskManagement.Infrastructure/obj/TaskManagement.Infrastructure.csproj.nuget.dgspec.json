@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Learning\\TaskManagement\\TaskManagement.Infrastructure\\TaskManagement.Infrastructure.csproj": {}
+    "C:\\Users\\mnajm\\TaskManagement\\TaskManagement.Infrastructure\\TaskManagement.Infrastructure.csproj": {}
   },
   "projects": {
-    "D:\\Learning\\TaskManagement\\TaskManagement.Core\\TaskManagement.Core.csproj": {
+    "C:\\Users\\mnajm\\TaskManagement\\TaskManagement.Core\\TaskManagement.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Learning\\TaskManagement\\TaskManagement.Core\\TaskManagement.Core.csproj",
+        "projectUniqueName": "C:\\Users\\mnajm\\TaskManagement\\TaskManagement.Core\\TaskManagement.Core.csproj",
         "projectName": "TaskManagement.Core",
-        "projectPath": "D:\\Learning\\TaskManagement\\TaskManagement.Core\\TaskManagement.Core.csproj",
-        "packagesPath": "C:\\Users\\roshdi\\.nuget\\packages\\",
-        "outputPath": "D:\\Learning\\TaskManagement\\TaskManagement.Core\\obj\\",
+        "projectPath": "C:\\Users\\mnajm\\TaskManagement\\TaskManagement.Core\\TaskManagement.Core.csproj",
+        "packagesPath": "C:\\Users\\mnajm\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mnajm\\TaskManagement\\TaskManagement.Core\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\roshdi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mnajm\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,21 +58,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Learning\\TaskManagement\\TaskManagement.Infrastructure\\TaskManagement.Infrastructure.csproj": {
+    "C:\\Users\\mnajm\\TaskManagement\\TaskManagement.Infrastructure\\TaskManagement.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Learning\\TaskManagement\\TaskManagement.Infrastructure\\TaskManagement.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\mnajm\\TaskManagement\\TaskManagement.Infrastructure\\TaskManagement.Infrastructure.csproj",
         "projectName": "TaskManagement.Infrastructure",
-        "projectPath": "D:\\Learning\\TaskManagement\\TaskManagement.Infrastructure\\TaskManagement.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\roshdi\\.nuget\\packages\\",
-        "outputPath": "D:\\Learning\\TaskManagement\\TaskManagement.Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\mnajm\\TaskManagement\\TaskManagement.Infrastructure\\TaskManagement.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\mnajm\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mnajm\\TaskManagement\\TaskManagement.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\roshdi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mnajm\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -83,8 +89,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Learning\\TaskManagement\\TaskManagement.Core\\TaskManagement.Core.csproj": {
-                "projectPath": "D:\\Learning\\TaskManagement\\TaskManagement.Core\\TaskManagement.Core.csproj"
+              "C:\\Users\\mnajm\\TaskManagement\\TaskManagement.Core\\TaskManagement.Core.csproj": {
+                "projectPath": "C:\\Users\\mnajm\\TaskManagement\\TaskManagement.Core\\TaskManagement.Core.csproj"
               }
             }
           }
@@ -126,7 +132,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
