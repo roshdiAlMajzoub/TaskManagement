@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VLyGcouEsS/kh1qslzcLsXsj33URkwgVaIRlDEqPFEFZWnGvXtqdG7tWCNRtjzI+tFwco2EL2e3pcV9onb/7AA==",
+  "dgSpecHash": "hJaiCjuqjVw1b3LOTwO7bzxekOWX7GKS0rR7NDv1bClDx37iYIokQREMSnCG4mwamxagR1vZL7MR1PsxYPwNnw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mnajm\\TaskManagement\\TaskManagement.Core\\TaskManagement.Core.csproj",
+  "projectFilePath": "C:\\Roshdi\\Learning\\TaskManagement.Core\\TaskManagement.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
