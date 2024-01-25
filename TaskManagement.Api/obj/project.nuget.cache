@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "60EfDr6RifVg33IrZOhjbk6kd4qGd+DB7Lz4RCz2pJMqUvTQkmPjm1SxHiKrlFlTpYs95PNfxv6Iqe/zVYGP9w==",
+  "dgSpecHash": "9pPnVnMYYsaT2eu+b2+ycQv9ZXhZ2fZlmJySTHr+eOODFVI1Xy9NadwWCd1XqHW55ERa6nWIk/SmICw3LeP0kQ==",
   "success": true,
   "projectFilePath": "C:\\Roshdi\\Learning\\TaskManagement.Api\\TaskManagement.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\facila 2\\.nuget\\packages\\ardalis.specification\\8.0.0\\ardalis.specification.8.0.0.nupkg.sha512",
+    "C:\\Users\\facila 2\\.nuget\\packages\\ardalis.specification.entityframeworkcore\\8.0.0\\ardalis.specification.entityframeworkcore.8.0.0.nupkg.sha512",
     "C:\\Users\\facila 2\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\facila 2\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
     "C:\\Users\\facila 2\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
@@ -15,7 +16,7 @@
     "C:\\Users\\facila 2\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.26\\microsoft.entityframeworkcore.6.0.26.nupkg.sha512",
     "C:\\Users\\facila 2\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.26\\microsoft.entityframeworkcore.abstractions.6.0.26.nupkg.sha512",
     "C:\\Users\\facila 2\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.26\\microsoft.entityframeworkcore.analyzers.6.0.26.nupkg.sha512",
-    "C:\\Users\\facila 2\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\6.0.19\\microsoft.entityframeworkcore.relational.6.0.19.nupkg.sha512",
+    "C:\\Users\\facila 2\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\6.0.25\\microsoft.entityframeworkcore.relational.6.0.25.nupkg.sha512",
     "C:\\Users\\facila 2\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\6.0.19\\microsoft.entityframeworkcore.sqlserver.6.0.19.nupkg.sha512",
     "C:\\Users\\facila 2\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\facila 2\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\6.0.0\\microsoft.extensions.caching.abstractions.6.0.0.nupkg.sha512",
