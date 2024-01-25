@@ -1,0 +1,12 @@
+C:\Roshdi\Learning\TaskManagement.Core\bin\Debug\net6.0\TaskManagement.Domain.deps.json
+C:\Roshdi\Learning\TaskManagement.Core\bin\Debug\net6.0\TaskManagement.Domain.dll
+C:\Roshdi\Learning\TaskManagement.Core\bin\Debug\net6.0\TaskManagement.Domain.pdb
+C:\Roshdi\Learning\TaskManagement.Core\obj\Debug\net6.0\TaskManagement.Domain.csproj.AssemblyReference.cache
+C:\Roshdi\Learning\TaskManagement.Core\obj\Debug\net6.0\TaskManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Roshdi\Learning\TaskManagement.Core\obj\Debug\net6.0\TaskManagement.Domain.AssemblyInfoInputs.cache
+C:\Roshdi\Learning\TaskManagement.Core\obj\Debug\net6.0\TaskManagement.Domain.AssemblyInfo.cs
+C:\Roshdi\Learning\TaskManagement.Core\obj\Debug\net6.0\TaskManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Roshdi\Learning\TaskManagement.Core\obj\Debug\net6.0\TaskManagement.Domain.dll
+C:\Roshdi\Learning\TaskManagement.Core\obj\Debug\net6.0\refint\TaskManagement.Domain.dll
+C:\Roshdi\Learning\TaskManagement.Core\obj\Debug\net6.0\TaskManagement.Domain.pdb
+C:\Roshdi\Learning\TaskManagement.Core\obj\Debug\net6.0\ref\TaskManagement.Domain.dll

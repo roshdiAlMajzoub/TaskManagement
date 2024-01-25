@@ -4,12 +4,12 @@
     "C:\\Roshdi\\Learning\\TaskManagement.Infrastructure\\TaskManagement.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Roshdi\\Learning\\TaskManagement.Core\\TaskManagement.Core.csproj": {
+    "C:\\Roshdi\\Learning\\TaskManagement.Core\\TaskManagement.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Roshdi\\Learning\\TaskManagement.Core\\TaskManagement.Core.csproj",
-        "projectName": "TaskManagement.Core",
-        "projectPath": "C:\\Roshdi\\Learning\\TaskManagement.Core\\TaskManagement.Core.csproj",
+        "projectUniqueName": "C:\\Roshdi\\Learning\\TaskManagement.Core\\TaskManagement.Domain.csproj",
+        "projectName": "TaskManagement.Domain",
+        "projectPath": "C:\\Roshdi\\Learning\\TaskManagement.Core\\TaskManagement.Domain.csproj",
         "packagesPath": "C:\\Users\\facila 2\\.nuget\\packages\\",
         "outputPath": "C:\\Roshdi\\Learning\\TaskManagement.Core\\obj\\",
         "projectStyle": "PackageReference",
@@ -42,6 +42,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Ardalis.Specification": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -89,8 +95,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Roshdi\\Learning\\TaskManagement.Core\\TaskManagement.Core.csproj": {
-                "projectPath": "C:\\Roshdi\\Learning\\TaskManagement.Core\\TaskManagement.Core.csproj"
+              "C:\\Roshdi\\Learning\\TaskManagement.Core\\TaskManagement.Domain.csproj": {
+                "projectPath": "C:\\Roshdi\\Learning\\TaskManagement.Core\\TaskManagement.Domain.csproj"
               }
             }
           }

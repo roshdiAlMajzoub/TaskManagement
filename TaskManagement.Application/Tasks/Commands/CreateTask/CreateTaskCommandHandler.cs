@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using TaskManagement.Core.Entities;
-using TaskManagement.Core.Interfaces;
+using TaskManagement.Domain.Shared.Repositories;
 
 namespace TaskManagement.Application.Tasks.Commands.CreateTask
 {

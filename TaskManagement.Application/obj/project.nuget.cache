@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "bISE+RKdvms9vtDDHeeUnBaSOkj8Sj8AY4rT1V8Z+PGteOxUo//YcPovNdDLCB5yIwJe8pX5iAxr7CG7dwDR4A==",
+  "dgSpecHash": "lP96e1swIDStryOqzU1VUxB1WBiDz8EMp5H9bKN+FZe/Ig3SOx72zaHZHfqavD3e6yFtk3wQC1uik+gJYKAbWw==",
   "success": true,
   "projectFilePath": "C:\\Roshdi\\Learning\\TaskManagement.Application\\TaskManagement.Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\facila 2\\.nuget\\packages\\ardalis.specification\\8.0.0\\ardalis.specification.8.0.0.nupkg.sha512",
     "C:\\Users\\facila 2\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\facila 2\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
     "C:\\Users\\facila 2\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",

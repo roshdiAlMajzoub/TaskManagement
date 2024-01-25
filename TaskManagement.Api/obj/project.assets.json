@@ -2,6 +2,19 @@
   "version": 3,
   "targets": {
     "net6.0": {
+      "Ardalis.Specification/8.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Ardalis.Specification.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/Ardalis.Specification.dll": {
+            "related": ".pdb;.xml"
+          }
+        }
+      },
       "AutoMapper/12.0.0": {
         "type": "package",
         "dependencies": {
@@ -888,10 +901,11 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
+          "Ardalis.Specification": "8.0.0",
           "AutoMapper": "12.0.0",
           "AutoMapper.Extensions.Microsoft.DependencyInjection": "12.0.0",
           "MediatR": "12.0.1",
-          "TaskManagement.Core": "1.0.0"
+          "TaskManagement.Domain": "1.0.0"
         },
         "compile": {
           "bin/placeholder/TaskManagement.Application.dll": {}
@@ -900,14 +914,17 @@
           "bin/placeholder/TaskManagement.Application.dll": {}
         }
       },
-      "TaskManagement.Core/1.0.0": {
+      "TaskManagement.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Ardalis.Specification": "8.0.0"
+        },
         "compile": {
-          "bin/placeholder/TaskManagement.Core.dll": {}
+          "bin/placeholder/TaskManagement.Domain.dll": {}
         },
         "runtime": {
-          "bin/placeholder/TaskManagement.Core.dll": {}
+          "bin/placeholder/TaskManagement.Domain.dll": {}
         }
       },
       "TaskManagement.Infrastructure/1.0.0": {
@@ -915,7 +932,7 @@
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "6.0.26",
-          "TaskManagement.Core": "1.0.0"
+          "TaskManagement.Domain": "1.0.0"
         },
         "compile": {
           "bin/placeholder/TaskManagement.Infrastructure.dll": {}
@@ -927,6 +944,30 @@
     }
   },
   "libraries": {
+    "Ardalis.Specification/8.0.0": {
+      "sha512": "1/YP932oZJtaDlm85rWfqvgOjALbk2+VDZaj36sM2TdsJMNkVqMbF5UzY6f7OfzA8eymv3hnCXIgYmEBEiUOhQ==",
+      "type": "package",
+      "path": "ardalis.specification/8.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "ardalis.specification.8.0.0.nupkg.sha512",
+        "ardalis.specification.nuspec",
+        "icon.png",
+        "lib/net6.0/Ardalis.Specification.dll",
+        "lib/net6.0/Ardalis.Specification.pdb",
+        "lib/net6.0/Ardalis.Specification.xml",
+        "lib/net7.0/Ardalis.Specification.dll",
+        "lib/net7.0/Ardalis.Specification.pdb",
+        "lib/net7.0/Ardalis.Specification.xml",
+        "lib/net8.0/Ardalis.Specification.dll",
+        "lib/net8.0/Ardalis.Specification.pdb",
+        "lib/net8.0/Ardalis.Specification.xml",
+        "lib/netstandard2.0/Ardalis.Specification.dll",
+        "lib/netstandard2.0/Ardalis.Specification.pdb",
+        "lib/netstandard2.0/Ardalis.Specification.xml"
+      ]
+    },
     "AutoMapper/12.0.0": {
       "sha512": "0Rmg0zI5AFu1O/y//o9VGyhxKjhggWpk9mOA1tp0DEVx40c61bs+lnQv+0jUq8XbniF7FKgIVvI1perqiMtLrA==",
       "type": "package",
@@ -2279,10 +2320,10 @@
       "path": "../TaskManagement.Application/TaskManagement.Application.csproj",
       "msbuildProject": "../TaskManagement.Application/TaskManagement.Application.csproj"
     },
-    "TaskManagement.Core/1.0.0": {
+    "TaskManagement.Domain/1.0.0": {
       "type": "project",
-      "path": "../TaskManagement.Core/TaskManagement.Core.csproj",
-      "msbuildProject": "../TaskManagement.Core/TaskManagement.Core.csproj"
+      "path": "../TaskManagement.Core/TaskManagement.Domain.csproj",
+      "msbuildProject": "../TaskManagement.Core/TaskManagement.Domain.csproj"
     },
     "TaskManagement.Infrastructure/1.0.0": {
       "type": "project",

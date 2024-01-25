@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "QOWjm9o6WAoipX5etec2FjJeVvpG4FChvJ1G5gLVNjZV0pGq5M12MlBx9OR6DwqsBqp6zWKGB4/0oOkNaiY0cQ==",
+  "dgSpecHash": "xbhBNnfQDINl8NS9/4qxM2Md3BDkQxX/Iv67AjClIlhBH2N9tRrhBKL0Mvrd1XMgTvyfiW76twDbIri2svFW6g==",
   "success": true,
   "projectFilePath": "C:\\Roshdi\\Learning\\TaskManagement.Infrastructure\\TaskManagement.Infrastructure.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\facila 2\\.nuget\\packages\\ardalis.specification\\8.0.0\\ardalis.specification.8.0.0.nupkg.sha512",
     "C:\\Users\\facila 2\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\facila 2\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.26\\microsoft.entityframeworkcore.6.0.26.nupkg.sha512",
     "C:\\Users\\facila 2\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.26\\microsoft.entityframeworkcore.abstractions.6.0.26.nupkg.sha512",

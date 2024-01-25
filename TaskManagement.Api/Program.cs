@@ -5,9 +5,10 @@ using Microsoft.Extensions.Configuration;
 using System.Reflection;
 using TaskManagement.Application;
 using TaskManagement.Application.Tasks.Commands.CreateTask;
-using TaskManagement.Core.Interfaces;
+using TaskManagement.Domain.Shared.Repositories;
 using TaskManagement.Infrastructure;
 using TaskManagement.Infrastructure.Data;
+using TaskManagement.Infrastructure.Data.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
 var configuration = builder.Configuration;

@@ -4,9 +4,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using TaskManagement.Core.Interfaces;
-using TaskManagement.Infrastructure.Data;
 using Microsoft.Extensions.DependencyInjection;
+using TaskManagement.Infrastructure.Data.Repositories;
+using TaskManagement.Domain.Shared.Repositories;
 
 namespace TaskManagement.Infrastructure
 {
