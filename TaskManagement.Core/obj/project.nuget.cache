@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZcNIknLU8IvCxz4DpHGkaglAOiLeX9r1jO2p4ET35p7iObnESH5EBMW8pP4nmkWjTkzybbK4fAeTWPUDa0x6nQ==",
+  "success": true,
+  "projectFilePath": "C:\\Roshdi\\Learning\\TaskManagement.Core\\TaskManagement.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\facila 2\\.nuget\\packages\\ardalis.specification\\8.0.0\\ardalis.specification.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

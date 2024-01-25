@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using TaskManagement.Core.Entities;
+using TaskManagement.Domain.Entities;
 using TaskManagement.Domain.Shared.Repositories;
-using TaskE = TaskManagement.Core.Entities.TaskE;
+using TaskE = TaskManagement.Domain.Entities.TaskE;
 
 namespace TaskManagement.Infrastructure.Data.Repositories
 {

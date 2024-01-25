@@ -417,8 +417,8 @@
     },
     "TaskManagement.Domain/1.0.0": {
       "type": "project",
-      "path": "../TaskManagement.Core/TaskManagement.Domain.csproj",
-      "msbuildProject": "../TaskManagement.Core/TaskManagement.Domain.csproj"
+      "path": "../TaskManagement.Domain/TaskManagement.Domain.csproj",
+      "msbuildProject": "../TaskManagement.Domain/TaskManagement.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -461,8 +461,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Roshdi\\Learning\\TaskManagement.Core\\TaskManagement.Domain.csproj": {
-              "projectPath": "C:\\Roshdi\\Learning\\TaskManagement.Core\\TaskManagement.Domain.csproj"
+            "C:\\Roshdi\\Learning\\TaskManagement.Domain\\TaskManagement.Domain.csproj": {
+              "projectPath": "C:\\Roshdi\\Learning\\TaskManagement.Domain\\TaskManagement.Domain.csproj"
             }
           }
         }

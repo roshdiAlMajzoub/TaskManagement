@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TaskManagement.Core.Entities
+namespace TaskManagement.Domain.Entities
 {
     public class TaskE
     {

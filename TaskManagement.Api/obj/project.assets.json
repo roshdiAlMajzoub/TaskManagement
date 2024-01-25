@@ -2322,8 +2322,8 @@
     },
     "TaskManagement.Domain/1.0.0": {
       "type": "project",
-      "path": "../TaskManagement.Core/TaskManagement.Domain.csproj",
-      "msbuildProject": "../TaskManagement.Core/TaskManagement.Domain.csproj"
+      "path": "../TaskManagement.Domain/TaskManagement.Domain.csproj",
+      "msbuildProject": "../TaskManagement.Domain/TaskManagement.Domain.csproj"
     },
     "TaskManagement.Infrastructure/1.0.0": {
       "type": "project",
